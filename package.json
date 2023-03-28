@@ -1,7 +1,7 @@
 {
-  "name": "awesome-books-es6",
+  "name": "awesome-books",
   "version": "1.0.0",
-  "description": "",
+  "description": "If you are not familiar with linters, read [root level README](../README.md).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +17,6 @@
     "url": "https://github.com/jossi30/Awesome-books-ES6/issues"
   },
   "homepage": "https://github.com/jossi30/Awesome-books-ES6#readme",
-  "dependencies": {
-    "luxon": "^3.3.0"
-  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
@@ -30,5 +27,8 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "luxon": "^3.3.0"
   }
 }
